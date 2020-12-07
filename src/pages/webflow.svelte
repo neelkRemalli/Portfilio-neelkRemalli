@@ -43,7 +43,7 @@
             bios for real women successful 
              contain pages. I designed it first then built pages using 
               a responsive web page using Webflow.  </p>
-                <a href="" target="_blank" class='ransition-colors  duration-500 inline-block mt-12 px-8 py-4 text-sm font-serif text-white rounded  uppercase  bg-yellow-700 hover:bg-yellow-800'>See Demo</a>
+                <a href="https://bios-project-fb3624.webflow.io/" target="_blank" class='ransition-colors  duration-500 inline-block mt-12 px-8 py-4 text-sm font-serif text-white rounded  uppercase  bg-yellow-700 hover:bg-yellow-800'>See Demo</a>
        </div>
    {/if}
        </div>
