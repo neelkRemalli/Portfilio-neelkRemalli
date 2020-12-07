@@ -24,14 +24,14 @@
 {/if}
 
    <div class='w-full h-full'>
-       <img class='h-auto object-cover' src="images/discovery.png" alt="discovery image" in:blur="{{delay: 500, duration: 3000, amount: 22, easing: quintOut}}">
+       <img class='h-auto object-cover' src="images/discovery.png" alt="discovery " in:blur="{{delay: 500, duration: 3000, amount: 22, easing: quintOut}}">
    </div>
    </div>
   
    <div class='grid md:grid-cols-2  gap-12 mt-32'>
      {#if showAnimate >= 230}
        <div class='w-full h-full '>
-           <img class='h-auto object-cover ' src="images/movies1.png" alt="movies image" in:blur="{{delay: 500, duration: 3000, amount: 22, easing: quintOut}}">
+           <img class='h-auto object-cover ' src="images/movies1.png" alt="movies " in:blur="{{delay: 500, duration: 3000, amount: 22, easing: quintOut}}">
        </div>
      {/if}
        {#if showAnimate >= 230}
@@ -62,7 +62,7 @@
  {/if}
    {#if showAnimate >= 650}
     <div class='w-full h-full'>
-        <img class='h-auto object-cover' src="images/calculator.png" alt="calcualator image" in:blur="{{delay: 500, duration: 3000, amount: 22, easing: quintOut}}">
+        <img class='h-auto object-cover' src="images/calculator.png" alt="calcualator" in:blur="{{delay: 500, duration: 3000, amount: 22, easing: quintOut}}">
     </div>
     {/if}
     </div>
